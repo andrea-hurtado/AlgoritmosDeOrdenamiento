@@ -54,12 +54,13 @@ Seleccione el método de ordenamiento:
 
 ¿Desea ver los pasos? (true/false):
 true
-## Conclusiones:
-Cada algoritmo tiene su forma de implementar su ordenamiento, el metodo burbuja revisa cada relemento de la lista para comparar y ordenar con el siguiente, para el metodo inserción recorre por cada numero comparando con otro que se selecciono y lo va ordenando de forma mas natural, el metodo seleccion mejora el ordenamiento burbuja haciendo un intercambio por cada pasada a través de la lista dada. 
-Si se desea escoger un método la mejor alternativa es el de inserción ya que como se analizón antes, es una forma mas natural de ordenar los números
+---
 ¿Desea ordenar ascendentemente (A) o descendentemente (D)?:
 A
 ```
 
 ---
+## Conclusiones:
+Cada algoritmo tiene su forma de implementar su ordenamiento, el metodo burbuja revisa cada relemento de la lista para comparar y ordenar con el siguiente, para el metodo inserción recorre por cada numero comparando con otro que se selecciono y lo va ordenando de forma mas natural, el metodo seleccion mejora el ordenamiento burbuja haciendo un intercambio por cada pasada a través de la lista dada. 
+Si se desea escoger un método la mejor alternativa es el de inserción ya que como se analizón antes, es una forma mas natural de ordenar los números.
 
